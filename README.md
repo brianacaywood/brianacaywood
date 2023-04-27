@@ -2,7 +2,7 @@
 <h2><b>🔭 Projects I’m currently working on ...</b></h2>
 
 
-- Creating subscriptions, resource groups, subnet masks, and virtual networks
+- <a href= "https://github.com/brianacaywood/Create-virtual-machines">Creating subscriptions, resource groups, subnet masks, and virtual networks</a>
 
 
 - VPN setup using Azure 
