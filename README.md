@@ -1,5 +1,7 @@
-### <h1> Hi there - my name is Briana and I'm new to <a href="https://www.linkedin.com/in/briana-caywood/">Information Technology</a> 👋</h1>
-<h2><b>🔭 Projects I’m currently working on ...</b></h2>
+### <h1> Hi there - my name is Briana and I'm new to <a href="https://www.linkedin.com/in/briana-caywood/">Information Technology</a>! </h1>
+
+
+<b>🌱 I’m currently learning ...</b>
 
 
 - <a href= "https://github.com/brianacaywood/Create-virtual-machines">Creating subscriptions, resource groups, subnet masks, and virtual networks</a>
@@ -8,9 +10,9 @@
 - <a href= "https://github.com/brianacaywood/VPN"> VPN setup using Azure</a>
 
 
-- Deploying Active Directory & creating users
+- <a href= "https://github.com/brianacaywood/active-directory"> Deploying Active Directory & creating users</a>
 
-
+<h4>Pronouns: <i>She</i>/<i>Her</i> ✨</h4>
 
 
 
