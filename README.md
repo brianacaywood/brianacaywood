@@ -5,7 +5,7 @@
 - <a href= "https://github.com/brianacaywood/Create-virtual-machines">Creating subscriptions, resource groups, subnet masks, and virtual networks</a>
 
 
-- VPN setup using Azure 
+- <a href= "https://github.com/brianacaywood/VPN"> VPN setup using Azure</a>
 
 
 - Deploying Active Directory & creating users
